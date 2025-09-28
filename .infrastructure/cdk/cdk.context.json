@@ -5,5 +5,13 @@
   "hosted-zone:account=425225284125:domainName=astro-tutorial.p.aws.skylinedigital.co.nz:region=ap-southeast-2": {
     "Id": "/hostedzone/Z017878933OREA4ZSN5RL",
     "Name": "astro-tutorial.p.aws.skylinedigital.co.nz."
+  },
+  "hosted-zone:account=425225284125:domainName=astro-tutorial.aws.skylinedigital.co.nz:region=ap-southeast-2": {
+    "Id": "/hostedzone/Z01768661VGNQHABZUUHL",
+    "Name": "astro-tutorial.aws.skylinedigital.co.nz."
+  },
+  "hosted-zone:account=425225284125:domainName=aws.skylinedigital.co.nz:region=ap-southeast-2": {
+    "Id": "/hostedzone/Z0952208QSXSN1YTFKL5",
+    "Name": "aws.skylinedigital.co.nz."
   }
 }
