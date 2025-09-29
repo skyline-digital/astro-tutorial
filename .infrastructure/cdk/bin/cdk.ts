@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import * as cdk from "aws-cdk-lib";
-import { AstroTutorialStack } from "../lib/cdk-stack";
+import { AstroTutorialStack } from "../lib/stack";
 
 const app = new cdk.App();
 new AstroTutorialStack(app, "AstroTutorialStack", {
